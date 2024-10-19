@@ -12,4 +12,4 @@ Whether it's:
 
 ...you'll find it here. 
 
-Feel free to open issues, contribute to discussions, or just browse around.  Let's learn and explore the wonders of mathematics together! 
+Let's learn and explore the wonders of mathematics together! 
